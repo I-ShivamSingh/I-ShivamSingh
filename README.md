@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shivamsinghpro/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/shivamsinghpro/" height="50" width="50" /></a>
 <a href="https://instagram.com/shivamrocks.singh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="shivamrocks.singh" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/goldenterminator" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="goldenterminator" height="40" width="170" /></a>
+<a href="https://www.leetcode.com/goldenterminator" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="goldenterminator" height="35" width="150" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<shivam_cpp>/profile" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="<shivam_cpp>/profile" height="55" width="55" /></a>
 <a href="https://kaggle.com/shivamsingh22mca0257" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="shivamsingh22mca0257" height="80" width="80" /></a>
 </p>
