@@ -13,8 +13,9 @@
 
 - ⚡ Fun fact: **Why do programmers prefer using the dark mode? Because light attracts bugs!**
 
-- 🌐 Socials: <a href="https://www.linkedin.com/in/i-shivamsingh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20" width="80"/></a>
 - 👨‍💻 Coding Profile: <a href="https://leetcode.com/u/I-ShivamSingh/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="goldenterminator" height="20" width="80" /></a>
+
+- 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-shivamsingh/)
 
 <br>
 
