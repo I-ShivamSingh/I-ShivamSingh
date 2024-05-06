@@ -20,7 +20,7 @@
 <br>
 
 # 💻 Skills 
-[![Skills](https://skillicons.dev/icons?i=cpp,html,css,js,mongodb,express,react,nodejs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,js,html,css,mongodb,express,react,nodejs)]()
 
 <br>
 
