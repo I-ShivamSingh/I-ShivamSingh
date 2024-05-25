@@ -1,7 +1,7 @@
-<h1 align="center"> Hi , I'm Shivam Singh ✌️ </h1> 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <img  src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" /> 
+<h1 align="center"><img style="width: 200px" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" /> Hi , I'm Shivam Singh ✌️ <img style="width: 200px" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" /></h1>
 
 # 💫 About Me:
 
